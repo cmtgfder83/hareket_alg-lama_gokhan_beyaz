@@ -3,7 +3,7 @@
 #include <string.h>
 #include "stm32l0xx_hal.h"
 
-// --- ÖDEV AYARLARI ---
+// --- gokhan beyaz ---
 #define MPU6050_ADDR (0x68 << 1)
 #define HAREKET_ESIGI 15000
 
